@@ -4,6 +4,7 @@
 Practical task, where student should write script to read json, parse data and print some values with appropriate formatting.
 ------
 How it actually looks now:
+```
 {'address': '623 Hoyt Street, Waverly, Washington, 4681',
  'company': 'PARCOE',
  'email': 'muriellott@parcoe.com',
@@ -29,5 +30,4 @@ How it actually looks now:
  'email': 'stellaworkman@permadyne.com',
  'index': 4,
  'phone': '+1 (997) 448-3432'}
-
-
+```
